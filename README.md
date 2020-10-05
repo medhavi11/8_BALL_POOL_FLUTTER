@@ -10,7 +10,7 @@ This is a repo created to remember the Hacktober Fest 2020 presented by  Digital
 
 - [Your Name](http://yourgithuburl) | [Your School/Uni](https://www.youruniurl/)
 - [Ayan Chakraborty](https://github.com/ac-ayan) | [Kalinga Institute of Industrial Technology](https://kiit.ac.in/)
-- [Pratyay Sin](https://github.com/Prat15072000) | [SIT](https://sit.org]
+- [Pratyay Sin](https://github.com/Prat15072000) | [SIT](https://sit.org)
 
 _Please follow the github Markdown format strictly else PR request might get neglected._
 _Change the demo details and enter your details there, make sure to leave a demo markdown code there for other as it was before._
